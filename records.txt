@@ -1,0 +1,10 @@
+MamiYo, Escudero acorazado;4;4
+Alberto, Caballero blindado;2;2
+Tester, Soldado;1;1
+Nadie;0;0
+Nadie;0;0
+Nadie;0;0
+Nadie;0;0
+Nadie;0;0
+Nadie;0;0
+Nadie;0;0
